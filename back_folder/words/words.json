@@ -1,0 +1,129 @@
+{
+    "minus": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 6,
+            "text_start_time": [
+                "30"
+            ],
+            "translated_word": "\ub9c8\uc774\ub108\uc2a4"
+        }
+    ],
+    "Responding": [
+        {
+            "video_id": "VTds5RxhlqA",
+            "text_index": 93,
+            "text_start_time": [
+                "253"
+            ],
+            "translated_word": "\uc751\ub2f5"
+        }
+    ],
+    "dead": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 2,
+            "text_start_time": [
+                "18"
+            ],
+            "translated_word": "\uc8fd\uc740"
+        }
+    ],
+    "because": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 18,
+            "text_start_time": [
+                "63"
+            ],
+            "translated_word": "\uc65c\ub0d0\ud558\uba74"
+        }
+    ],
+    "to": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 196,
+            "text_start_time": [
+                "553"
+            ],
+            "translated_word": "\uc5d0\uac8c"
+        },
+        {
+            "video_id": "YSMWN8VpY6A",
+            "text_index": 7,
+            "text_start_time": [
+                "25"
+            ]
+        }
+    ],
+    "location,": [
+        {
+            "video_id": "YSMWN8VpY6A",
+            "text_index": 52,
+            "text_start_time": [
+                "193"
+            ],
+            "translated_word": "\uc704\uce58,"
+        }
+    ],
+    "headaches": [
+        {
+            "video_id": "VTds5RxhlqA",
+            "text_index": 6,
+            "text_start_time": [
+                "27"
+            ],
+            "translated_word": "\ub450\ud1b5"
+        }
+    ],
+    "bother": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 5,
+            "text_start_time": [
+                "27"
+            ],
+            "translated_word": "\uc2e0\uacbd \uc4f0\ub2e4"
+        }
+    ],
+    "passport": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 19,
+            "text_start_time": [
+                "65"
+            ],
+            "translated_word": "\uc5ec\uad8c"
+        }
+    ],
+    "Europe": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 18,
+            "text_start_time": [
+                "63"
+            ],
+            "translated_word": "\uc720\ub7fd"
+        }
+    ],
+    "few": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 0,
+            "text_start_time": [
+                "13"
+            ],
+            "translated_word": "\uc57d\uac04\uc758"
+        }
+    ],
+    "front": [
+        {
+            "video_id": "8jPQjjsBbIc",
+            "text_index": 4,
+            "text_start_time": [
+                "23"
+            ],
+            "translated_word": "\uc55e\ucabd"
+        }
+    ]
+}

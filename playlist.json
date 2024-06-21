@@ -1,0 +1,96 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "qAk27OtN_5NO1i80oRdIaT7uyHA",
+    "pageInfo": {
+        "totalResults": 2,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "evoblf8Gd9dgKgjtEjTPYGQ-tgk",
+            "id": "PLG_f8boInm3b9TE9Bvnn8bTvoDBAr7iBw",
+            "snippet": {
+                "publishedAt": "2024-05-16T10:00:35Z",
+                "channelId": "UCeQftWyaTnNyCbWVm2mJ99w",
+                "title": "\uc7ac\uc0dd\ubaa9\ub85d",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "12e",
+                "localized": {
+                    "title": "\uc7ac\uc0dd\ubaa9\ub85d",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HYK-uyNOvhaRvaCMNlY7RPS4w2A",
+            "id": "PLG_f8boInm3bGCHD_LI9fBKGarmNvgv8L",
+            "snippet": {
+                "publishedAt": "2024-05-14T13:50:41Z",
+                "channelId": "UCeQftWyaTnNyCbWVm2mJ99w",
+                "title": "\uc7ac\uc0dd\ubaa9\ub85d2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSMWN8VpY6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSMWN8VpY6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSMWN8VpY6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YSMWN8VpY6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YSMWN8VpY6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "12e",
+                "localized": {
+                    "title": "\uc7ac\uc0dd\ubaa9\ub85d2",
+                    "description": ""
+                }
+            }
+        }
+    ]
+}
